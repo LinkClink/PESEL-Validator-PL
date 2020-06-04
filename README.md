@@ -1,5 +1,5 @@
-Cheking Pesel
+* Cheking Pesel
 
-PESEL is - https://pl.wikipedia.org/wiki/PESEL
+About PESEL - https://pl.wikipedia.org/wiki/PESEL
 	
 
